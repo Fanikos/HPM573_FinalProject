@@ -1,0 +1,5 @@
+# Treatment Costs
+ADVIL_COST = 1
+WARFARIN_COST = 4
+HEPARIN_COST = 7
+LWMH_COST = 8
